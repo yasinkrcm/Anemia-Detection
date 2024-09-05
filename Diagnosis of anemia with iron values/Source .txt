@@ -1,1 +1,0 @@
-https://www.kaggle.com/datasets/biswaranjanrao/anemia-dataset/data?select=anemia.csv
