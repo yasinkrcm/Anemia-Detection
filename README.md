@@ -86,7 +86,7 @@
         <section id="contact">
             <h2>📬 Contact</h2>
             <p><strong>Yasin KARAÇAM</strong> - <a href="mailto:yasinkaracam67@gmail.com">yasinkaracam67@gmail.com</a></p>
-            <p><strong>GitHub:</strong> <a href="https://github.com/yasinkrcm">yasinkrcm</a></p>
+            <p><strong>Linkedin:</strong> <a href="https://linkedin.com/in/yasin-karacamm">Yasin KARAÇAM</a></p>
         </section>
     </main>
 </body>
